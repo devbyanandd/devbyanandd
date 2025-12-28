@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Anand
 
-<!--
-**devbyanandd/devbyanandd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System Engineer III @ Amazon  
+Learning and growing in Cloud, DevOps, ServiceNow, Infra & Automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Currently Exploring
+- AWS & Cloud fundamentals
+- Infrastructure as Code – Terraform
+- Containers – Docker
+- Orchestration – Kubernetes
+- ServiceNow – ITSM workflows and automation
+- Linux, Bash & troubleshooting
+
+---
+
+### 🧠 What I Do Today
+- Support large-scale systems and services
+- Investigate outages using metrics, logs & runbooks
+- Automate small repetitive tasks and learn by building
+
+---
+
+### 🎯 Goals
+- Strengthen foundational cloud & DevOps skills
+- Contribute to small open-source / personal tools
+- Build confidence through consistent practice
+
+---
+
+### 📚 Learning Journey
+I’m documenting labs, notes and experiments in public — not because I'm an expert, but because it helps me stay accountable.
+
+---
+
+### 📫 Reach Out
+
+[(Share your LinkedIn / email here if you want)](https://www.linkedin.com/in/anandd2010/)
