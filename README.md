@@ -36,4 +36,4 @@ I’m documenting labs, notes and experiments in public — not because I'm an e
 
 ### 📫 Reach Out
 
-[(Share your LinkedIn / email here if you want)](https://www.linkedin.com/in/anandd2010/)
+[LinkedIn](https://www.linkedin.com/in/anandd2010/)
